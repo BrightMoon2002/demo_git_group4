@@ -4,7 +4,7 @@ import java.security.NoSuchAlgorithmException;
 
 public class Hello {
     public static void main(String[] args) {
-        //..............
+        System.out.println("Hello group 4");
     }
 
     public static int sum(int a, int b) {
